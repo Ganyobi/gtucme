@@ -1,0 +1,21 @@
+body
+{
+background-image:url('file:///C:/xampp/htdocs/gtuc/img/registerbg.png');
+/*background-repeat:no-repeat;*/
+}
+#formholder
+{
+	background-color:white;
+}
+form
+{
+padding: 20px;	
+}
+footer
+{
+	background-color:#111111;
+	float
+	bottom:0px;
+	width:100%;
+	height:2em; 
+}

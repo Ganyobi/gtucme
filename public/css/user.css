@@ -1,0 +1,29 @@
+body
+{
+background-image:url('file:///C:/xampp/htdocs/gtuc/img/BGD.jpg');
+/*background-repeat:no-repeat;*/
+}
+#content
+{
+	background-color:white;
+	padding:10px;
+	min-height:700px;
+}
+#social
+{
+	 float:right;
+	bottom:700px;
+}
+code
+{
+	font-size:1.5em;
+	
+}
+footer
+{
+	background-color:#111111;
+          float
+	bottom:-1px;
+	width:100%;
+	height:2em; 
+}

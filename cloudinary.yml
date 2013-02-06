@@ -1,0 +1,21 @@
+---
+development:
+  cloud_name: gtucme
+  api_key: '821447974683111'
+  api_secret: 915naOo9rUUzEMPdYvP-YCnp2es
+  enhance_image_tag: true
+  static_image_support: false
+
+production:
+  cloud_name: gtucme
+  api_key: '821447974683111'
+  api_secret: 915naOo9rUUzEMPdYvP-YCnp2es
+  enhance_image_tag: true
+  static_image_support: true
+
+test:
+  cloud_name: gtucme
+  api_key: '821447974683111'
+  api_secret: 915naOo9rUUzEMPdYvP-YCnp2es
+  enhance_image_tag: true
+  static_image_support: false
